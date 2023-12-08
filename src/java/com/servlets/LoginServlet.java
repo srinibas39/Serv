@@ -20,14 +20,23 @@ public class LoginServlet extends HttpServlet {
         String password = req.getParameter("password");
         String terms = req.getParameter("terms");
         String gender = req.getParameter("gender");
+        String course = req.getParameter("course");
         if (terms != null && terms.equals("terms")) {
             writer.println("<h2>Email " + email + "</h2>");
             writer.println("<h2>Password " + password + "</h2>");
             writer.println("<h2>Name " + name + "</h2>");
             writer.println("<h2>Gender " + gender + "</h2>");
+            writer.println("<h2>Course " + course + "</h2>");
+            var rd=req.getRequestDispatcher("/success");
+//            include 
+            rd.forward(req, resp);
+            
         } else {
-            writer.println("<h2>" + terms + "</h2>");
             writer.println("<h2>Please accept the terms and condition</h2>");
+            var rd=req.getRequestDispatcher("index.html");
+            //forward
+            rd.include(req, resp);
+            
         }
 
     }
