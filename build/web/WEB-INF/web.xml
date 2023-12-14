@@ -4,6 +4,10 @@
         <servlet-name>Cookie2</servlet-name>
         <url-pattern>/cook2</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Register</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
     <welcome-file-list>
         <welcome-file>home.html</welcome-file>
     </welcome-file-list>
@@ -30,6 +34,10 @@
     <servlet>
         <servlet-name>Cookie2</servlet-name>
         <servlet-class>com.cookies.Cookie2</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Register</servlet-name>
+        <servlet-class>Register</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>loginServlet</servlet-name>
