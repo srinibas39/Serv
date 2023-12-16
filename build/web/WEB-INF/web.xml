@@ -4,6 +4,14 @@
         <servlet-name>Url2</servlet-name>
         <url-pattern>/url2</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Hidden1</servlet-name>
+        <url-pattern>/hidden1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Hidden2</servlet-name>
+        <url-pattern>/hidden2</url-pattern>
+    </servlet-mapping>
     <welcome-file-list>
         <welcome-file>home.html</welcome-file>
     </welcome-file-list>
@@ -42,6 +50,14 @@
     <servlet>
         <servlet-name>Url2</servlet-name>
         <servlet-class>com.url.Url2</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Hidden1</servlet-name>
+        <servlet-class>com.hidden.Hidden1</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Hidden2</servlet-name>
+        <servlet-class>com.hidden.Hidden2</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>loginServlet</servlet-name>
