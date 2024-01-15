@@ -3,13 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/attr/Server2.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/register/Register.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/login.html</file>
             <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/servlets/LoginServlet.java</file>
-            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
-            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/attr.html</file>
             <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/attr/Server1.java</file>
             <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/home.html</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/hidden/Hidden2.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/url/Url2.java</file>
             <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/servlets/SuccessServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/urlRewriting.html</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/cookies/Cookie1.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/hiddenForm.html</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/hidden/Hidden1.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/attr.html</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/cookies/Cookie2.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/src/java/com/url/Url1.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/WebApplication1/web/cookies.html</file>
         </group>
     </open-files>
 </project-private>
